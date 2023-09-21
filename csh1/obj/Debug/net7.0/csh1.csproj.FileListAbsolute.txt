@@ -1,0 +1,15 @@
+/Users/arnavnelli/Desktop/csh1/obj/Debug/net7.0/csh1.csproj.AssemblyReference.cache
+/Users/arnavnelli/Desktop/csh1/obj/Debug/net7.0/csh1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arnavnelli/Desktop/csh1/obj/Debug/net7.0/csh1.AssemblyInfoInputs.cache
+/Users/arnavnelli/Desktop/csh1/obj/Debug/net7.0/csh1.AssemblyInfo.cs
+/Users/arnavnelli/Desktop/csh1/obj/Debug/net7.0/csh1.csproj.CoreCompileInputs.cache
+/Users/arnavnelli/Desktop/csh1/bin/Debug/net7.0/csh1
+/Users/arnavnelli/Desktop/csh1/bin/Debug/net7.0/csh1.deps.json
+/Users/arnavnelli/Desktop/csh1/bin/Debug/net7.0/csh1.runtimeconfig.json
+/Users/arnavnelli/Desktop/csh1/bin/Debug/net7.0/csh1.dll
+/Users/arnavnelli/Desktop/csh1/bin/Debug/net7.0/csh1.pdb
+/Users/arnavnelli/Desktop/csh1/obj/Debug/net7.0/csh1.dll
+/Users/arnavnelli/Desktop/csh1/obj/Debug/net7.0/refint/csh1.dll
+/Users/arnavnelli/Desktop/csh1/obj/Debug/net7.0/csh1.pdb
+/Users/arnavnelli/Desktop/csh1/obj/Debug/net7.0/csh1.genruntimeconfig.cache
+/Users/arnavnelli/Desktop/csh1/obj/Debug/net7.0/ref/csh1.dll
